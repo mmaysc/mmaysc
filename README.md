@@ -2,8 +2,8 @@
 
 
 - Atualmente não estou trabalhando.
-- Estou estudando programação, iniciando com ênfase em front-end.
-- FunFact: Sou estudante de veterinária e entusiasta na área de tecnologia. 
+- Estou estudando programação e dei início à graduação de Ciência da Computação. 
+- Sou formada em Medicina Veterinária.  
 
 <div align="center">
   <a href="https://github.com/mmaysc">
